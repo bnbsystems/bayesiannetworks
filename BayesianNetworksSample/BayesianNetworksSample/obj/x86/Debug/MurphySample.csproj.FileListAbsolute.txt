@@ -1,0 +1,17 @@
+c:\users\arekbee\documents\visual studio 2010\Projects\MurphySample\MurphySample\bin\Debug\MurphySample.exe
+c:\users\arekbee\documents\visual studio 2010\Projects\MurphySample\MurphySample\bin\Debug\MurphySample.pdb
+c:\users\arekbee\documents\visual studio 2010\Projects\MurphySample\MurphySample\bin\Debug\Infer.Compiler.dll
+c:\users\arekbee\documents\visual studio 2010\Projects\MurphySample\MurphySample\bin\Debug\Infer.Runtime.dll
+c:\users\arekbee\documents\visual studio 2010\Projects\MurphySample\MurphySample\bin\Debug\Infer.Compiler.pdb
+c:\users\arekbee\documents\visual studio 2010\Projects\MurphySample\MurphySample\bin\Debug\Infer.Compiler.xml
+c:\users\arekbee\documents\visual studio 2010\Projects\MurphySample\MurphySample\bin\Debug\Infer.Runtime.pdb
+c:\users\arekbee\documents\visual studio 2010\Projects\MurphySample\MurphySample\bin\Debug\Infer.Runtime.xml
+c:\users\arekbee\documents\visual studio 2010\Projects\MurphySample\MurphySample\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\arekbee\documents\visual studio 2010\Projects\MurphySample\MurphySample\obj\x86\Debug\MurphySample.PicSchema.resources
+c:\users\arekbee\documents\visual studio 2010\Projects\MurphySample\MurphySample\obj\x86\Debug\MurphySample.Properties.Resources.resources
+c:\users\arekbee\documents\visual studio 2010\Projects\MurphySample\MurphySample\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\arekbee\documents\visual studio 2010\Projects\MurphySample\MurphySample\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\arekbee\documents\visual studio 2010\Projects\MurphySample\MurphySample\obj\x86\Debug\MurphySample.exe
+c:\users\arekbee\documents\visual studio 2010\Projects\MurphySample\MurphySample\obj\x86\Debug\MurphySample.pdb
+C:\Users\arekbee\documents\visual studio 2010\Projects\MurphySample\MurphySample\obj\x86\Debug\MurphySample.MurphySampleForm.resources
+C:\Users\arekbee\documents\visual studio 2010\Projects\MurphySample\MurphySample\obj\x86\Debug\MurphySample.StartForm.resources

@@ -1,0 +1,17 @@
+C:\Users\arekbee\Documents\Visual Studio 2010\Projects\MurphySample\MurphySample\bin\Debug\Infer.Compiler.dll
+C:\Users\arekbee\Documents\Visual Studio 2010\Projects\MurphySample\MurphySample\bin\Debug\Infer.Runtime.dll
+C:\Users\arekbee\Documents\Visual Studio 2010\Projects\MurphySample\MurphySample\bin\Debug\Infer.Compiler.pdb
+C:\Users\arekbee\Documents\Visual Studio 2010\Projects\MurphySample\MurphySample\bin\Debug\Infer.Compiler.xml
+C:\Users\arekbee\Documents\Visual Studio 2010\Projects\MurphySample\MurphySample\bin\Debug\Infer.Runtime.pdb
+C:\Users\arekbee\Documents\Visual Studio 2010\Projects\MurphySample\MurphySample\bin\Debug\Infer.Runtime.xml
+C:\Users\arekbee\Documents\Visual Studio 2010\Projects\MurphySample\MurphySample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\arekbee\Documents\Visual Studio 2010\Projects\MurphySample\MurphySample\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\arekbee\Documents\Visual Studio 2010\Projects\MurphySample\MurphySample\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\arekbee\Documents\Visual Studio 2010\Projects\MurphySample\MurphySample\bin\Debug\BayesianNetworksSample.exe
+C:\Users\arekbee\Documents\Visual Studio 2010\Projects\MurphySample\MurphySample\bin\Debug\BayesianNetworksSample.pdb
+C:\Users\arekbee\Documents\Visual Studio 2010\Projects\MurphySample\MurphySample\obj\x86\Debug\BayesianNetworksSample.BayesianNetworksSampleForm.resources
+C:\Users\arekbee\Documents\Visual Studio 2010\Projects\MurphySample\MurphySample\obj\x86\Debug\BayesianNetworksSample.PicSchema.resources
+C:\Users\arekbee\Documents\Visual Studio 2010\Projects\MurphySample\MurphySample\obj\x86\Debug\BayesianNetworksSample.Properties.Resources.resources
+C:\Users\arekbee\Documents\Visual Studio 2010\Projects\MurphySample\MurphySample\obj\x86\Debug\BayesianNetworksSample.StartForm.resources
+C:\Users\arekbee\Documents\Visual Studio 2010\Projects\MurphySample\MurphySample\obj\x86\Debug\BayesianNetworksSample.exe
+C:\Users\arekbee\Documents\Visual Studio 2010\Projects\MurphySample\MurphySample\obj\x86\Debug\BayesianNetworksSample.pdb
